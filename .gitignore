@@ -1,0 +1,23 @@
+# Ignore environment files
+.env
+
+# Ignore node_modules directory (for Node.js projects)
+node_modules/
+
+# Ignore Python virtual environment directories
+venv/
+__pycache__/
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.pyc
+*.class
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
